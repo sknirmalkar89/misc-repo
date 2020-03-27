@@ -1,0 +1,13 @@
+{
+  "subject": "Employee",
+  "fields": [
+    {
+      "name": "osid"
+    },{
+	  "name": "kcid"
+   },
+   {
+   	"name":"email"
+   }
+  ]
+}
