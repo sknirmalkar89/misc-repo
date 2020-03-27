@@ -14,9 +14,13 @@
   
 #Keycloak-Update
  A java project will read the Employee.json created on step 1 and use Base32 encoder and update keycloak database.
+ 
  Project Can be run:
     Get the keycloak token set env token.
+    
     step 1:  $ export token = <keycloak token>
+    
     step 2 : $ mvn clean package
+    
     step 3 : $ java -jar target/keycloak-update-0.0.1-SNAPSHOT-jar-with-dependencies.jar Employee.json 
    
