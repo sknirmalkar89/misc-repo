@@ -2,12 +2,14 @@
 
 
 #registry_script.js
+
    It will take a back up of kcid,osid, email data of a user from registry with view template Employee_SearchResult.json 
    where kcid is not null and create a backup file Employee.json
    
    $node registry_script.js
    
 #kc_registry.js
+
   It will take a back up of all users from the given relam from keycloak database and store in Keycloak_Backup.json.
   
    $ node kc_registry.js
