@@ -1,0 +1,97 @@
+[
+    
+    {
+        "id": "7fffce31-b0a3-43c1-a84d-dabefbefd296",
+        "username": "eprdemoadmin1584602400574",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "eprdemoadmin",
+        "email": "tlj6sxriy+lg8kfv3zemuzcgftl/m8l5hsobzo5y1ui=",
+        "disableableCredentialTypes": [
+            "password"
+        ],
+        "requiredActions": [
+            "UPDATE_PASSWORD"
+        ],
+        "notBefore": 0,
+        "access": {
+            "manageGroupMembership": true,
+            "view": true,
+            "mapRoles": true,
+            "impersonate": false,
+            "manage": true
+        }
+    },
+    {
+        "id": "ba6e0748-a7d1-49e8-9fa4-3bf0397d73ee",
+        "username": "eprdemouser11584602399300",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "eprdemouser1",
+        "email": "g+cakmb34gbfrxnhio12b3hyn8ggzkdawkeondd8tau=",
+        "disableableCredentialTypes": [
+            "password"
+        ],
+        "requiredActions": [
+            "UPDATE_PASSWORD"
+        ],
+        "notBefore": 0,
+        "access": {
+            "manageGroupMembership": true,
+            "view": true,
+            "mapRoles": true,
+            "impersonate": false,
+            "manage": true
+        }
+    },
+    {
+        "id": "a60784b3-8102-4a1a-a699-25fcda5aec26",
+        "username": "eprdemouser21584602399722",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "eprdemouser2",
+        "email": "v/ltaa1oaqgoxtnutyjcf8mtk4tf88oioyherwxy8lu=",
+        "disableableCredentialTypes": [
+            "password"
+        ],
+        "requiredActions": [
+            "UPDATE_PASSWORD"
+        ],
+        "notBefore": 0,
+        "access": {
+            "manageGroupMembership": true,
+            "view": true,
+            "mapRoles": true,
+            "impersonate": false,
+            "manage": true
+        }
+    },
+    {
+        "id": "b629851a-f2df-4110-a797-c77f7a400d9d",
+        "username": "eprdemouser31584602400163",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "eprdemouser3",
+        "email": "rpcvzw3ryafiugt42as1yhearzr3peos4ji4zlhkhj4=",
+        "disableableCredentialTypes": [
+            "password"
+        ],
+        "requiredActions": [
+            "UPDATE_PASSWORD"
+        ],
+        "notBefore": 0,
+        "access": {
+            "manageGroupMembership": true,
+            "view": true,
+            "mapRoles": true,
+            "impersonate": false,
+            "manage": true
+        }
+    }
+    
+   
+]
