@@ -80,7 +80,20 @@ const readEmployeeRegistry = function(obj, headers,callback){
                Employee:{
                    osid: employee.osid        
                },
-               viewTemplateId:employeeTemplate  
+               viewTemplate:{
+                   subject:entityType,
+                   fields:[
+                       {
+                           name:"osid"
+                       },
+                       {
+                           name:"kcid"
+                       },
+                       {
+                           name:"email"
+                       }
+                   ]
+               }  
                 
             }
         }
